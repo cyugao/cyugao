@@ -1,4 +1,5 @@
-Hi! I am a PhD student in Industrial Engineering at the University of Wisconsin-Madison
+Hi! I am a PhD student in Industrial Engineering at the University of Wisconsin-Madison.
+
 My current research interests are machine learning, non-convex optimization and differentially private optimization methods.
 - 🔭 I’m currently working on **diffentially private optimization algorithms**
 - 🌱 I’m currently learning *differencial privacy* and *high-dimensional probability*
